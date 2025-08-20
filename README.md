@@ -4,6 +4,6 @@
 
 - <b>Survival Analysis</b>
   - [Straphylocous Infection Rate in Burn Victims Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b> Machine Learning & Big Data
+- <b> Machine Learning & Big Data</b>
   - [Predicting MBTI Personality Type by Music]()
 
