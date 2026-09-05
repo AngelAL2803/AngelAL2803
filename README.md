@@ -1,4 +1,4 @@
-<h1>Hi, I'm Angel! <br/>Data Scientist, Data Analyst, Programmer</a>
+<h1>Hi, I'm Angel! <br/>Data Science & Data Analysis</a>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
